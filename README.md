@@ -1,5 +1,5 @@
 # my-gulp-starter
-This a simple gulp starter to convert sass into css, concat and minify.
+This a simple gulp starter to convert sass into css, concatenate all .sass files into one and then minify.
 
 **css**<br>
 --style.min.css<br>
